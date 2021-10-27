@@ -1,0 +1,4 @@
+ABA
+ABBAB
+BAABAAB
+6

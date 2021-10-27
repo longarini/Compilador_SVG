@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.base.jar",
+        "openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.controls.jar",
+        "openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.fxml.jar",
+        "openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.graphics.jar",
+        "openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.media.jar",
+        "openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.swing.jar",
+        "openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx.web.jar",
+        "openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib/javafx-swt.jar"
+    ]
+}
